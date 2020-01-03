@@ -32,7 +32,9 @@
 
 def naming_system
   
-  
+  name_system = {
+    
+  }
   # Remember:
   #  Kingdom
   #  Phylum
